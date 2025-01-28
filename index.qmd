@@ -1,0 +1,20 @@
+---
+title: "Marguerite's Web Site"
+image: images/plethodonjordani.png
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/mbutler808
+    - icon: github
+      text: Github
+      href: https://github.com/mbutler808
+---
+
+
+This is a Quarto website.
+
+![This is a salamander](images/plethodonjordani.png)
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
