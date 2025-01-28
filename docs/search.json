@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Marguerite’s Web Site",
+    "section": "",
+    "text": "This is a Quarto website.\n\n\n\nThis is a salamander\n\n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
